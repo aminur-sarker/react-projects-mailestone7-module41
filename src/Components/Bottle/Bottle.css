@@ -1,0 +1,24 @@
+.Bottle{
+    border:2px solid blue;
+    border-radius:10px;
+    margin-bottom:5px;
+    background-color: rgb(237, 237, 235);
+}
+
+.Bottle img{
+    width:200px;
+    margin-left:40px
+}
+
+.btn-buy-now{
+    margin-bottom: 25px;
+    margin-top: 25px;
+    height: fit-content;
+    width: fit-content;
+    margin-left:60px
+    
+}
+.btn-buy-now:hover{
+    background-color:#0a0a23;
+    color: #fff;  
+}
